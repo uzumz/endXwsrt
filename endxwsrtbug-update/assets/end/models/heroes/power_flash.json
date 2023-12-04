@@ -1,0 +1,13 @@
+{
+  "parent": "fiskheroes:hero_basic",
+  "resources": {
+    "layer1": "end:power_flash",
+    "layer2": "end:power_flash"
+  },
+  "custom": {
+    "fiskheroes:trail": {
+      "type": "end:shazam",
+      "conditionals": ["vars:SPEEDING"]
+    }
+  }
+}

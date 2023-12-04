@@ -1,0 +1,9 @@
+{
+  "suit": "end:voldemort",
+  "requirements": [
+    "fiskheroes:tier6_7",
+    "fiskheroes:teleportation",
+    "fiskheroes:magic",
+    "fiskheroes:cosmic"
+  ]
+}
